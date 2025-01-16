@@ -1,7 +1,7 @@
 num1 = float(input("Introduce el primer numero: "))
 num2 = float(input("Introduce el segundo numero: "))
 
-# definir el operador
+# definir el operadorr
 
 operador = input("Introduce la operacion a realizar (suma, resta, multiplicacion, division): ")
 
